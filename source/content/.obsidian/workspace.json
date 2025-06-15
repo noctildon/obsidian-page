@@ -1,104 +1,96 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "5fd69264b8f154da",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "12791aaf6b685217",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "5272fb37d5fdf9a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "c67b6180670a9919",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "c8a3ab1ddf37185a",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "a98c00c5efde32f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "225aa9f936588c9a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#internet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "915c244b45a0074c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "5f109af6c31a0c30",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "e7877c1481b3ea66",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "943843e21346f8b0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "20250118103156.components",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,40 +98,59 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20250118103156"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "78d19b2615e1595a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "92f458175723ad30",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "77d70092205fb0ae",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ea8cb3cfefffe6cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -151,20 +162,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian42-brat:BRAT": false,
+      "tasknotes:Open calendar": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "5272fb37d5fdf9a4",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
     "index.md",
-    "category-folder"
+    "HOME.md",
+    "Note2.md",
+    "Note1.md",
+    "2025-05-12.md",
+    "projects/pc/connect wifi.md",
+    "nucleus states.loom",
+    "IBM cloud.md",
+    "20250118103156.components",
+    "TaskNotes/Tasks/2506101ins.md",
+    "TaskNotes/Tasks",
+    "TaskNotes",
+    "spreadsheets/nuclei.csv",
+    "spreadsheets",
+    "nuclei.csv",
+    "2025-02-21.md",
+    "projects/pc",
+    "projects",
+    "20241231160857.components",
+    "sh1.md",
+    "item 1.md",
+    "item 1 1.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "db1.md",
+    "Drawing 2024-09-10 14.23.55.excalidraw.md",
+    "folder1/Note1.md",
+    "file1.md"
   ]
 }
