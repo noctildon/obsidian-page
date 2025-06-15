@@ -1,0 +1,9 @@
+title: Vault
+description: obsidian vault
+baseurl: "/vault"
+url: "https://noctildon.github.io"
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
